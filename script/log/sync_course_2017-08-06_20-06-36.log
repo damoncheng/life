@@ -1,0 +1,170 @@
+#Sync---Grade:20170---Teachers:10
+#------getCourse session_header-------#
+#Sync---Grade:20161---Teachers:10
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:10
+#------getCourse session_header-------#
+#Sync---Grade:20151---Teachers:10
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BUG H
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001151-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,2T2N
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,P4V3
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BEPU
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BEPU
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+0001400
+0
+200,OK
+0001151
+0
+
+#------getCourse session_header-------#
+200,OK
+0001400
+0
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,KBDZ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,TQNC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,138A
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,B3CD
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,64 64
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400
+0
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,H91 8
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,UQQE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400
+0

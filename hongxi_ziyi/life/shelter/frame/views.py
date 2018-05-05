@@ -1,0 +1,27 @@
+import traceback
+import importlib
+
+from django.http import HttpResponse
+from frame.models import Backends
+
+def get_template(request):
+    template_id = request.GET.get("template_id", "")
+    request_type = request.GET.get("request_type", "")
+
+    backend = Backends.objects.get(id=template_id)
+    module_path_list = backend.backend_class.split(".")[0:-1]
+    module_path = ".".join(module_path_list)
+    class_name = backend.backend_class.split(".")[-1]
+    print module_path,class_name
+    module = importlib.import_module(module_path)
+    involve_class = getattr(module, class_name)
+    involve = involve_class(request=request)
+
+    if request_type == "normal":
+        return involve.get_html()
+    elif request_type == "ajax":
+        return involve.get_html_ajax()
+
+
+
+

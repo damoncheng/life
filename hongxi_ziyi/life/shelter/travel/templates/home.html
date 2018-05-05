@@ -1,0 +1,235 @@
+{% extends "site-templates-travel.html" %}
+{% load staticfiles %}
+{% load static %}
+
+
+{% block css-travel %}
+   <style>
+        div.jHtmlArea .ToolBar ul li a.custom_add_height {
+          background : url({% static "images\add_height.png" %}) no-repeat;
+          background-position : 0 0;
+        }
+        div.jHtmlArea .ToolBar ul li a.custom_del_height {
+          background : url({% static "images\del_height.png" %}) no-repeat;
+          background-position : 0 0;
+        }
+        div.jHtmlArea .ToolBar ul li a.custom_disk_button {
+          background : url({% static "images\disk.png" %}) no-repeat;
+          background-position : 0 0;
+        }
+   </style>
+  <link rel="stylesheet" type="text/css"  href="{% static 'custom/travel/css/home.css' %}" />
+{% endblock %}
+
+{% block js-travel %}
+   <script>
+        PHOTO_SHADE_SHOW_TOP = 20
+        IMG_UPLOAD_URL = get_html_location_url(TEMPLATE_ID,'normal','Administrator','upload_img',
+                 { 'photo_year' : '{{year}}', 'photo_area' : '{{image_area}}', 'photo_city' : '{{image_city}}'});
+        CONTENT_IMG_LEN = {{image_path_list|length}}
+        YEAR = '{{year}}'
+        IMAGE_AREA = '{{image_area}}'
+        IMAGE_CITY = '{{image_city}}'
+        PSENDWORD_ID = '{{psendword.id}}'
+        PHOTO_ID = '{{photo_id}}'
+        {%if s_username and image_area and image_city and year %}
+            LOGINED = true
+        {%else%}
+            LOGINED = false
+        {%endif%}
+        function switch_year(obj){
+             window.location.href = '{% url "travel_home" %}' + "?menu=blog&image_year=" + obj.value
+        }
+   </script>
+   <script src="{% static 'custom/travel/js/home.js' %}"></script>
+{% endblock %}
+
+{% block content-travel %}
+   <div id="photo_shade_middle" class="photo_shade upload_shade">
+   </div>
+   <div id="upload_shade_show" class="upload_shade">
+       <div id="progress" class="progress">
+           <div class="progress-bar" role="progressbar" aria-valuenow="0" airai-valuemin="0" 
+               aria-valuemax="100"  style="width:0%;">
+               %0
+           </div>
+       </div>
+   </div>
+   <div id="photo_del_img_modal" class="modal fade" tabindex="-1" role="dialog">
+       <div class="modal-dialog" role="document">
+           <div class="modal-content">
+               <div class="modal-header">
+                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                   </button>
+                   <h4 class="modal-title">confirm to delete?</h4>
+               </div>
+               <div class="modal-body">
+                   <p>Notice! all images will be deleted!</p>
+               </div>
+               <div class="modal-footer">
+                   <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                   <button id="photo_del_img_modal_sure" type="button" class="btn btn-primary">
+                       Sure
+                   </button>
+               </div>
+           </div>
+       </div>
+   </div>
+   <div id="photo_del_one_img_modal" class="modal fade" tabindex="-1" role="dialog">
+       <div class="modal-dialog" role="document">
+           <div class="modal-content">
+               <div class="modal-header">
+                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                   </button>
+                   <h4 class="modal-title">Do you sure to delete this image?</h4>
+               </div>
+               <div class="modal-body">
+               </div>
+               <div class="modal-footer">
+                   <button id="photo_del_one_img_modal_sure" type="button" class="btn btn-primary">
+                       Sure
+                   </button>
+                   <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+               </div>
+           </div>
+       </div>
+   </div>
+   <div id="photo_shade_del_img_one">
+       <img src="{% static 'images/del_one_img.jpg' %}" class="del_one_img" />
+   </div>
+   <div id="photo_shade_show" class="photo_shade">
+       <div id="photo_shade_show_arrow_left" class="photo_shade_show_arrow">
+           <div id="photo_shade_show_arrow_menu_left">
+               <span 
+                     class="glyphicon glyphicon-menu-left" 
+                     aria-hidden="true"
+               >
+               </span>
+               <span 
+                     id="photo_shade_show_arrow_img_left"
+                     class="photo_shade_show_arrow_img"
+               >-</span>
+           </div>
+       </div>
+       <div id="photo_shade_show_img">
+       </div>
+       <div id="photo_shade_show_arrow_right" class="photo_shade_show_arrow">
+           <div id="photo_shade_show_arrow_menu_right">
+               <span 
+                   id="photo_shade_show_arrow_img_right"
+                   class="photo_shade_show_arrow_img"
+                >-</span>
+               <span 
+                   class="glyphicon glyphicon-menu-right" 
+                   aria-hidden="true"
+               >
+               </span>
+           </div>
+       </div>
+       <div style="clear:both"></div>
+       <div id="photo_shade_show_img_tag">
+           <span></span>
+       </div>
+   </div>
+   <div id="content-diary">
+     {%if s_username and image_area and image_city and year %}
+         <textarea row="15" cols="50" id="{{psendword.id}}_textarea">{{psendword.word}}</textarea>
+     {%elif image_area and image_city and year %}
+         {% autoescape off %}
+             {{psendword.word}}
+         {% endautoescape %}
+     {%else%}
+         <p>Eempty!</p>
+     {%endif%}
+   </div>
+   <div id="content-img">
+     {%if s_username and image_area and image_city and year %}
+         <div class="content-img-one">
+             <div>
+                 <img src='{% static "images/add_img.png"  %}' class="add_img" />
+             </div>
+             <div>
+             </div>
+         </div>
+         <div class="content-img-one">
+             <div>
+                 <img src='{% static "images/del_img.png"  %}' class="del_img" />
+             </div>
+             <div>
+             </div>
+         </div>
+         <input id="img_upload" style="display:none" type="file" name="uploaded_file" data-url="" multiple  />
+     {%endif%}
+     {% for one_image_path in image_path_list %}
+         <div class="content-img-one">
+             <div>
+                 <img src='{% static one_image_path %}' index="{{forloop.counter}}" class="normal_img" />
+             </div>
+             <div class="content-img-one-name">
+                 {% for one_path,one_value in image_path_dict.items %}
+                     {% if one_path == one_image_path %}
+                         {%if s_username and image_area and image_city and year %}
+                            <input class="content-img-one-name-tag" type="text" value="{{one_value.image_name}}"  
+                                file_name="{{one_value.image_file_name}}" index="{{forloop.parentloop.counter}}"
+                            />
+                         {%else%}
+                            <span class="content-img-one-name-tag" file_name="{{one_value.image_file_name}}" index="{{forloop.parentloop.counter}}">
+                                 {{one_value.image_name}}
+                            </span>
+                         {%endif%}
+                     {% endif %}
+                 {% endfor %}
+             </div>
+         </div>
+     {% endfor %}
+   </div>
+{% endblock %}
+
+{% block side-travel %}
+    <div id="side-content">
+        <select id="selected_image_year" class="form-control" onchange="switch_year(this)">
+            {% for one_year in year_list %}
+                {% if year == one_year %}
+                    <option value="{{one_year}}" selected="selected">{{ one_year }}</option>
+                {% else %}
+                    <option value="{{one_year}}">{{ one_year }}</option>
+                {% endif %}
+            {% endfor %}
+        </select>
+        <div id="{{ year }}">
+        <ul class="nav nav-pills nav-stacked area_city">
+        {% for one_year_index,one_year_value in photo_dict.items %}
+            {% if one_year_index == year %}
+                {% for one_area_index,one_area_value in one_year_value.items %}
+                    {% for one_city_index,one_city_value in one_area_value.items %}
+                           
+                       <li  role="presentation" 
+                           {% if image_area == one_area_index and image_city == one_city_index %}
+                              class="active"
+                           {%endif%}
+                       >
+                            <a href="javascript:void(0)" 
+                                onclick="get_html_location(
+                                  TEMPLATE_ID, 
+                                  'normal', 
+                                  'Involve', 
+                                  'get_home',
+                                  {
+                                     'image_year' : {{year}}, 
+                                     'image_area_city' : '{{one_area_index}}&&{{one_city_index}}'
+                                  }
+                                )"
+                            >
+                                {{one_city_value.tag}}
+                            </a>
+                       </li>
+                    {% endfor %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+        </ul>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,44 @@
+2018-01-03_14-00-01
+#Sync---Grade:20171---Teachers:2
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001239-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,PSUJ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001239-<table class="page_table" name=theExportData style="border:0px;"><tr><td style='width:100%;border:0px;text-align:left' colspan='10'>环节</td></tr></table></div><table WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF>
+<thead><tr><td style='width:4%;text-align:center' >序号</td><td style='width:24%;text-align:center' >环节</td><td style='width:8%;text-align:center' >类别</td><td style='width:5%;text-align:center' >学分</td><td style='width:5%;text-align:center' >周数</td><td style='width:5%;text-align:center' >组次</td><td style='width:5%;text-align:center' >人数</td><td style='width:9%;text-align:center' >周次</td><td style='width:12%;text-align:center' >行政班级</td><td style='width:23%;text-align:center' >地点</td></tr></thead><tbody><tr>
+<td style='width:4%;text-align:center'>1</td>
+<td style='width:24%;text-align:left'>[100242]专业基本技能（师范）Ⅰ<br></td><td style='width:8%;text-align:center'>其它环节<br></td><td style='width:5%;text-align:right'>0.4<br></td><td style='width:5%;text-align:right'>2.0<br></td><td style='width:5%;text-align:right'>21<br></td><td style='width:5%;text-align:right'>4<br></td><td style='width:9%;text-align:center'>17-18<br></td><td style='width:12%;text-align:left'>17级中文本科(2)班<br></td><td style='width:23%;text-align:left'>执文楼206<br></td></tr></tbody></table>
+<TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b>专业基本技能（师范）Ⅰ[17-18周]</td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,AJN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001057-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,URPX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001057-
+#---updated:2, saved:0----#
+2018-01-03_14-02-11

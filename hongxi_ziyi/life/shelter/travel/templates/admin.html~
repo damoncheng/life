@@ -1,0 +1,372 @@
+{% extends "site-templates-travel.html" %}
+
+{% block css-travel %}
+    <style>
+        div#header_menu ul li a {
+            color : rgb(153, 153, 153);
+        }
+
+        div#header_menu ul li#header_blog a{
+            color : rgb(153, 153, 153);
+        }
+
+        div#header_menu ul li#header_admin a{
+            color : #111;
+        }
+
+        div#content_admin {
+            width : 80%;
+            margin : 0 auto;        
+        }
+
+        div#side_admin {
+            width : 80%;
+            margin : 0 auto;
+            margin-top : 20px;
+            font-size : 20px;
+        }
+
+        div#content_admin #content_admin_select {
+            float: left;
+            width : 30%;
+            margin-left : 10px;
+            margin-top : 20px;
+        }
+
+        div#content_admin div#content_admin_add_photo {
+            width : 7%;
+            float: right;
+            font-size : 15px;
+            margin-top : 20px;
+        }
+
+        div#content_admin #content_admin_table{
+            width : 98%;
+            margin : 0 auto;
+            margin-top : 20px;
+        }
+
+        div#content_admin #content_admin_table ul {
+            padding : 0px;
+            overflow : auto;
+        }
+
+        div#content_admin #content_admin_table ul li {
+            float : left;
+            margin-right : 5px;
+            list-style-type : none;
+        }
+
+        div#content_admin #content_admin_add_photo a {
+            cursor : pointer;
+        }
+
+        div#new_photo_div div {
+            margin-bottom : 5px;
+        }
+
+        div#new_photo_div label {
+            width : 35%;
+            text-align: right;
+        }
+
+        ul.admin_menu {
+            margin-top : 50px;
+        }
+
+        ul.admin_menu a {
+            text-align : center;
+        }
+
+        ul.admin_menu li.active a {
+            background-color: #77a3f2;
+        }
+        
+    </style>
+{% endblock %}
+
+{% block js-travel %}
+   <script>
+       $(function(){
+           $("#content_admin_table ul").parent("td").css("min-width", "150px");
+       });
+
+       function update_photo(one_id_index){
+
+             photo_id  =  $("#" +  one_id_index + "_id").val()
+             photo_year = $("#" + one_id_index + "_year").val()
+             photo_area = $("#" + one_id_index + "_area").val()
+             photo_city = $("#" + one_id_index + "_city").val()
+             photo_tag =  $("#" + one_id_index + "_tag").val()
+
+             photo_year = photo_year.replace(/\s+/g, "")
+             photo_area = photo_area.replace(/\s+/g, "")
+             photo_city = photo_city.replace(/\s+/g, "")
+
+             get_html_location(
+                 TEMPLATE_ID,
+                 "normal",
+                 "Administrator",
+                 "update_photo",
+                 {
+                     'photo_id'   :   photo_id,
+                     'photo_year' :   photo_year,
+                     'photo_area' :   photo_area,
+                     'photo_city' :   photo_city,
+                     'photo_tag'  :   photo_tag,
+                 }
+             );
+
+       }
+
+       function del_photo_modal(one_id_index){
+           $("#del_photo_modal .modal-body").html("Do you sure delete photo_id " + one_id_index + " ?")
+           $("#del_photo_modal .modal-footer button").attr("photo_index", one_id_index)
+           $("#del_photo_modal").modal()
+       }
+
+       function del_photo(obj){
+
+             photo_id  =  $(obj).attr("photo_index")
+
+             get_html_location(
+                 TEMPLATE_ID,
+                 "normal",
+                 "Administrator",
+                 "del_photo",
+                 {
+                     'photo_id'   :   photo_id,
+                 }
+             );
+
+       }
+
+       function switch_year(obj){
+           get_html_location(
+              TEMPLATE_ID,      
+              "normal",
+              "Involve",
+              "get_admin",
+              {
+                 "menu" : "Admin",
+                 "image_year" : obj.value,
+              }
+           );
+       }
+
+       function add_photo(){
+
+           photo_year  =  $("#new_photo_year").val()
+           photo_area = $("#new_photo_area").val()
+           photo_city = $("#new_photo_city").val()
+           photo_tag = $("#new_photo_tag").val()
+
+           photo_year = photo_year.replace(/\s+/g, "")
+           photo_area = photo_area.replace(/\s+/g, "")
+           photo_city = photo_city.replace(/\s+/g, "")
+
+           ret = get_html_ajax(
+             TEMPLATE_ID,
+             "normal",
+             "Administrator",
+             "add_photo",
+             {
+                 'photo_year' :   photo_year,
+                 'photo_area' :   photo_area,
+                 'photo_city' :   photo_city,
+                 'photo_tag'  :   photo_tag,
+             }
+           );
+
+           if(ret["ret"] == 0)
+           {
+               get_html_location(
+                  TEMPLATE_ID,      
+                  "normal",
+                  "Involve",
+                  "get_admin",
+                  {
+                     "menu" : "Admin",
+                     "image_year" : photo_year,
+                  }
+               );
+           }
+           else
+           {
+               alert(ret["msg"])
+           }
+
+
+       }
+
+
+   </script>
+{% endblock %}
+
+{% block content-travel %}
+    <div id="content_admin">
+        {% if operator == "photo" %}
+            <div>
+                <div id="content_admin_select">
+                    <select class="form-control" onchange="switch_year(this)">
+                        {% for one_year in year_list %}
+                            {% if year == one_year %}
+                                <option value="{{one_year}}" selected="selected">{{one_year}}</option>
+                            {% else %}
+                                <option value="{{one_year}}">{{one_year}}</option>
+                            {% endif %}
+                        {% endfor %}
+                    </select>
+                </div>
+                <div id="content_admin_add_photo">
+                    <a ref="javascript(0)" data-toggle="modal" data-target="#add_photo_modal">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div style="clear:both"></div>
+            </div>
+            <table id="content_admin_table" class="table">
+                <thead>
+                    <th>id</th>
+                    <th>year</th>
+                    <th>area</th>
+                    <th>city</th>
+                    <th>tag</th>
+                    <th>operate</th>
+                </thead>
+                <tbody>
+                {% if photos %}
+                    {% for one_year_index,one_year_value in photo_dict.items %}
+                       {% if one_year_index == year %}
+                           {% for one_id_index,one_id_value in one_year_value.items %}
+                              <tr>
+                                  <td>
+                                      <input type="text" class="form-control" id="{{one_id_index}}_id" 
+                                              value="{{one_id_index}}" disabled="disabled"/> 
+                                  </td>
+                                  <td>
+                                      <input type="text" class="form-control" id="{{one_id_index}}_year" value="{{one_year_index}}" /> 
+                                  </td>
+                                  <td>
+                                      <input type="text" class="form-control" id="{{one_id_index}}_area" value="{{one_id_value.area}}" /> 
+                                  </td>
+                                  <td>
+                                      <input type="city" class="form-control" id="{{one_id_index}}_city" value="{{one_id_value.city}}" />
+                                  </td>
+                                  <td>
+                                      <input type="tag" class="form-control" id="{{one_id_index}}_tag" value="{{one_id_value.tag}}" />
+                                  </td>
+                                  <td>
+                                      <ul>
+                                          <li>
+                                              <a href="javascript:void(0)"
+                                                 onclick = "update_photo({{one_id_index}})"
+                                              >
+                                                 Save
+                                              </a>
+                                          </li>
+                                          <li><a href="javascript:void(0)"
+                                                 onclick = "del_photo_modal({{one_id_index}})"
+                                              >
+                                                 Delete
+                                              </a>
+                                          </li>
+                                      </ul>
+                                  </td>
+                              </tr>
+                           {% endfor %}
+                       {% endif %}
+                    {% endfor %}
+                {% endif %}
+                </tbody>
+            </table>
+        {%else%}
+           no data!
+        {% endif %}
+    </div>
+
+    <div id="del_photo_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times</span>
+                    </button>
+                    <h4 class="modal-title" id="mySmallModalLabel">del photo</h4>
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" photo_index="" onclick="del_photo(this)">
+                       del 
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="add_photo_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times</span>
+                    </button>
+                    <h4 class="modal-title" id="mySmallModalLabel">New Photo</h4>
+                </div>
+                <div class="modal-body">
+                    <div id="new_photo_div">
+                        <div>
+                            <label for="new_photo_year">year:</label>
+                            <input type="text" name="new_photo_year" value ="" id="new_photo_year" placeholder="YYYY" />
+                        </div>
+                        <div>
+                            <label for="new_photo_area">area:</label>
+                            <input type="text" name="new_photo_area" value ="" id="new_photo_area" placeholder="area" />
+                        </div>
+                        <div>
+                            <label for="new_photo_city">city:</label>
+                            <input type="text" name="new_photo_city" value ="" id="new_photo_city" placeholder="city" />
+                        </div>
+                        <div>
+                            <label for="new_photo_tag">tag:</label>
+                            <input type="text" name="new_photo_tag" value ="" id="new_photo_tag" placeholder="tag" />
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="add_photo()">
+                       add 
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block side-travel %}
+    <div id="side_admin">
+        <ul class="nav nav-pills nav-stacked admin_menu">
+            <li role="presentation"
+                {% if operator == "photo" %}
+                    class="active"
+                {% endif %}
+            >
+                <a href="javascript:void(0)"
+                   onclick="get_html_location(
+                       TEMPLATE_ID,
+                       'normal',
+                       'Involve',
+                       'get_admin',
+                       {
+                          'operator' : 'photo',
+                          'menu' : 'admin'
+                   }
+                   )"
+                >
+                    Photo
+                </a> 
+            </li>
+        </ul>
+    </div>
+{% endblock %}

@@ -1,0 +1,189 @@
+#Sync---Grade:20170---Teachers:0
+#Sync---Grade:20160---Teachers:0
+#Sync---Grade:20161---Teachers:0
+#Sync---Grade:20151---Teachers:0
+#Sync---Grade:20171---Teachers:8
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000774-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ECKB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000774-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：教师教育学院&ensp;&ensp;教师：李文权&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[330075]大学生心理健康教育<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >007<br></td><td width='9%' align='left' >17级历史本科班 17级旅游类本科(1)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[7-8节]<br></td><td width='15%' align='left' >执闳楼204<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >008<br></td><td width='9%' align='left' >17级旅游类本科(2)班 17级英语本科(1)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[7-8节]<br></td><td width='15%' align='left' >执闳楼204<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ZM9S
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000760-<table class="page_table" name=theExportData style="border:0px;"><tr><td style='width:100%;border:0px;text-align:left' colspan='10'>环节</td></tr></table></div><table WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF>
+<thead><tr><td style='width:4%;text-align:center' >序号</td><td style='width:24%;text-align:center' >环节</td><td style='width:8%;text-align:center' >类别</td><td style='width:5%;text-align:center' >学分</td><td style='width:5%;text-align:center' >周数</td><td style='width:5%;text-align:center' >组次</td><td style='width:5%;text-align:center' >人数</td><td style='width:9%;text-align:center' >周次</td><td style='width:12%;text-align:center' >行政班级</td><td style='width:23%;text-align:center' >地点</td></tr></thead><tbody><tr>
+<td style='width:4%;text-align:center'>1</td>
+<td style='width:24%;text-align:left'>[100242]专业基本技能（师范）Ⅰ<br></td><td style='width:8%;text-align:center'>其它环节<br></td><td style='width:5%;text-align:right'>0.4<br></td><td style='width:5%;text-align:right'>2.0<br></td><td style='width:5%;text-align:right'>2<br></td><td style='width:5%;text-align:right'>22<br></td><td style='width:9%;text-align:center'>10-11<br></td><td style='width:12%;text-align:left'>17级体育本科(1)班<br></td><td style='width:23%;text-align:left'><br></td></tr><tr>
+<td style='width:4%;text-align:center'>2</td>
+<td style='width:24%;text-align:left' hidevalue='[100242]专业基本技能（师范）Ⅰ'><br></td><td style='width:8%;text-align:center' hidevalue='其它环节'><br></td><td style='width:5%;text-align:right' hidevalue='0.4'><br></td><td style='width:5%;text-align:right' hidevalue='2.0'><br></td><td style='width:5%;text-align:right'>3<br></td><td style='width:5%;text-align:right'>23<br></td><td style='width:9%;text-align:center'>10-11<br></td><td style='width:12%;text-align:left'>17级体育本科(2)班<br></td><td style='width:23%;text-align:left'><br></td></tr><tr>
+<td style='width:4%;text-align:center'>3</td>
+<td style='width:24%;text-align:left' hidevalue='[100242]专业基本技能（师范）Ⅰ'><br></td><td style='width:8%;text-align:center' hidevalue='其它环节'><br></td><td style='width:5%;text-align:right' hidevalue='0.4'><br></td><td style='width:5%;text-align:right' hidevalue='2.0'><br></td><td style='width:5%;text-align:right'>6<br></td><td style='width:5%;text-align:right'>22<br></td><td style='width:9%;text-align:center'>10-11<br></td><td style='width:12%;text-align:left'>17级体育本科(3)班<br></td><td style='width:23%;text-align:left'><br></td></tr></tbody></table>
+<TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b>专业基本技能（师范）Ⅰ[10-11周]</td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,4JAA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000676-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：音乐与舞蹈学院&ensp;&ensp;教师：卢婷婷&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[110197]钢琴主修Ⅱ<br></td><td width='5%' align='right' >1.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/限选课<br></td><td width='5%' align='center' >005<br></td><td width='9%' align='left' >2015级音乐学本科(1)班 2015级音乐学本科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[5节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/限选课<br></td><td width='5%' align='center' >008<br></td><td width='9%' align='left' >2015级音乐专升本班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[7节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/限选课<br></td><td width='5%' align='center' >009<br></td><td width='9%' align='left' >2015级音乐专升本班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[8节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' >[360004]钢琴、器乐、声乐、舞蹈主修Ⅲ<br></td><td width='5%' align='right' >1.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >008<br></td><td width='9%' align='left' >2014级音乐本科(1)班 2014级音乐本科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-10周&ensp;二[5节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' >[360177]钢琴普修Ⅱ<br></td><td width='5%' align='right' >1.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >043<br></td><td width='9%' align='left' >17级音乐本科(1)班 17级音乐本科(2)班 17级音表本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[1节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >044<br></td><td width='9%' align='left' >17级音乐本科(1)班 17级音乐本科(2)班 17级音表本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[2节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >045<br></td><td width='9%' align='left' >17级音乐本科(1)班 17级音乐本科(2)班 17级音表本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[3节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >8<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >046<br></td><td width='9%' align='left' >17级音乐本科(1)班 17级音乐本科(2)班 17级音表本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[4节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >9<br></td><td width='25%' align='left' >[360258]钢琴普修Ⅳ<br></td><td width='5%' align='right' >1.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >039<br></td><td width='9%' align='left' >16级音乐本科(1)班 16级音乐本科(2)班 16级音乐表演本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[1节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >10<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >040<br></td><td width='9%' align='left' >16级音乐本科(1)班 16级音乐本科(2)班 16级音乐表演本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[2节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >11<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >041<br></td><td width='9%' align='left' >16级音乐本科(1)班 16级音乐本科(2)班 16级音乐表演本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[3节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >12<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >042<br></td><td width='9%' align='left' >16级音乐本科(1)班 16级音乐本科(2)班 16级音乐表演本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[4节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >13<br></td><td width='25%' align='left' >[360288]钢琴（器乐或声乐）普修Ⅵ<br></td><td width='5%' align='right' >1.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/限选课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >2015级音乐学本科(1)班 2015级音乐学本科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;一[6节]<br></td><td width='15%' align='left' >执韵楼D310<br></td></tr><td width='5%' align='center' >14<br></td><td width='25%' align='left' >[360404]合奏与合作Ⅱ<br></td><td width='5%' align='right' >0.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级音乐学本科(1)班 2015级音乐学本科(2)班 2015级音乐专升本班 2015级音乐表演本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-8周&ensp;三[5节]<br></td><td width='15%' align='left' >执韵楼A503<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ZKYM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000927-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,N4NP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000927-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：信息工程学院&ensp;&ensp;教师：石敏力&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[320002]计算机网络技术基础<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级中文本科(1)班 2015级中文本科(2)班 2015级中文专升本班 16级中文本科(1)班 16级中文本科(2)班 16级中文本科(3)班 2015级播音与主持本科班 16级播音主持本科班 2015级历史本科班 16级历史本科班 2015级旅游管理本科班 16级旅游本科(1)班 16级旅游本科(2)班 2015级酒店<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >3-18周&ensp;二[9-10节]<br></td><td width='15%' align='left' >执矩楼104<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' >[320327]计算机文化基础B<br></td><td width='5%' align='right' >1.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >011<br></td><td width='9%' align='left' >17级英语本科(1)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;五[3-4节]<br></td><td width='15%' align='left' >执矩楼207<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >012<br></td><td width='9%' align='left' >17级英语本科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;五[1-2节]<br></td><td width='15%' align='left' >执矩楼207<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >013<br></td><td width='9%' align='left' >17级英语本科(3)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执矩楼207<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >014<br></td><td width='9%' align='left' >17级翻译本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[7-8节]<br></td><td width='15%' align='left' >执矩楼207<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >039<br></td><td width='9%' align='left' >17级社工本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[5-6节]<br></td><td width='15%' align='left' >执矩楼204<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/必修课<br></td><td width='5%' align='center' >045<br></td><td width='9%' align='left' >17级学前本科(3)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >1-16周&ensp;二[1-2节]<br></td><td width='15%' align='left' >执矩楼207<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,2W3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000778-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,DCZT
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000778-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：国际教育学院（国际交流合作处）&ensp;&ensp;教师：唐德才&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[160048]形势与政策Ⅵ<br></td><td width='5%' align='right' >0.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2014级旅游管理本科班 2014级酒店管理本科班 2014级旅管(规划)本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >5-8周&ensp;一[9-11节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-8周&ensp;一[9-11节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[380007]形势与政策Ⅱ<br></td><td width='5%' align='right' >0.3<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >17级英语本科(3)班 17级翻译本科班 17级汉语国际本科班 17级英语专科(1)班 17级英语专科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >11-13周&ensp;一[9-10节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >11-13周&ensp;一[9-10节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >009<br></td><td width='9%' align='left' >17级生物本科(2)班 17级植科本科班 17级食检本科班 17级通信本科班 17级社体本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >5-7周&ensp;四[9-10节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-7周&ensp;四[9-10节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >014<br></td><td width='9%' align='left' >17级数学专科(3)班 17级心理学本科班 17级学前本科(1)班 17级学前本科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >5-7周&ensp;一[9-10节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >8<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-7周&ensp;一[9-10节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >9<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >018<br></td><td width='9%' align='left' >17级音乐本科(2)班 17级音表本科班 17级舞编本科班 17级音乐专科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >5-7周&ensp;五[7-8节]<br></td><td width='15%' align='left' >执治楼112<br></td></tr><td width='5%' align='center' >10<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-7周&ensp;五[7-8节]<br></td><td width='15%' align='left' >执治楼112<br></td></tr><td width='5%' align='center' >11<br></td><td width='25%' align='left' >[380011]形势与政策Ⅵ<br></td><td width='5%' align='right' >0.4<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >2015级数学(模仿)本科班 2015级物理本科班 2015级科学教育本科班 2015级电子本科班 2015级化学本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >11-13周&ensp;五[7-8节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >12<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >11-13周&ensp;五[7-8节]<br></td><td width='15%' align='left' >执毓楼107<br></td></tr><td width='5%' align='center' >13<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/公共课<br></td><td width='5%' align='center' >011<br></td><td width='9%' align='left' >2015级社工(养老)本科班 2015级物流管理本科(1)班 2015级物流管理本科(2)班 2015级学前专升本(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >11-13周&ensp;四[9-10节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >14<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >11-13周&ensp;四[9-10节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,HIT KV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2012026-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,614612
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2012026-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,XDKC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2012026-<table class="page_table" name=theExportData style="border:0px;"><tr><td style='width:100%;border:0px;text-align:left' colspan='10'>环节</td></tr></table></div><table WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF>
+<thead><tr><td style='width:4%;text-align:center' >序号</td><td style='width:24%;text-align:center' >环节</td><td style='width:8%;text-align:center' >类别</td><td style='width:5%;text-align:center' >学分</td><td style='width:5%;text-align:center' >周数</td><td style='width:5%;text-align:center' >组次</td><td style='width:5%;text-align:center' >人数</td><td style='width:9%;text-align:center' >周次</td><td style='width:12%;text-align:center' >行政班级</td><td style='width:23%;text-align:center' >地点</td></tr></thead><tbody><tr>
+<td style='width:4%;text-align:center'>1</td>
+<td style='width:24%;text-align:left'>[100247]专业/职业基本技能Ⅰ<br></td><td style='width:8%;text-align:center'>其它环节<br></td><td style='width:5%;text-align:right'>0.5<br></td><td style='width:5%;text-align:right'>2.0<br></td><td style='width:5%;text-align:right'>2<br></td><td style='width:5%;text-align:right'>56<br></td><td style='width:9%;text-align:center'>6-7<br></td><td style='width:12%;text-align:left'>17级旅游类本科(1)班<br></td><td style='width:23%;text-align:left'><br></td></tr><tr>
+<td style='width:4%;text-align:center'>2</td>
+<td style='width:24%;text-align:left' hidevalue='[100247]专业/职业基本技能Ⅰ'><br></td><td style='width:8%;text-align:center' hidevalue='其它环节'><br></td><td style='width:5%;text-align:right' hidevalue='0.5'><br></td><td style='width:5%;text-align:right' hidevalue='2.0'><br></td><td style='width:5%;text-align:right'>3<br></td><td style='width:5%;text-align:right'>59<br></td><td style='width:9%;text-align:center'>6-7<br></td><td style='width:12%;text-align:left'>17级旅游类本科(2)班<br></td><td style='width:23%;text-align:left'><br></td></tr></tbody></table>
+<TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b>专业/职业基本技能Ⅰ[6-7周]</td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,34CP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000064-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 258, in getCourse
+    validcode = getValidcode(session_header, subdir)
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 177, in getValidcode
+    conn.request("GET", "/sys/ValidateCode.aspx", headers=headers)
+  File "/usr/lib/python2.7/httplib.py", line 1039, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python2.7/httplib.py", line 1073, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python2.7/httplib.py", line 1035, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python2.7/httplib.py", line 879, in _send_output
+    self.send(msg)
+  File "/usr/lib/python2.7/httplib.py", line 841, in send
+    self.connect()
+  File "/usr/lib/python2.7/httplib.py", line 822, in connect
+    self.timeout, self.source_address)
+  File "/usr/lib/python2.7/socket.py", line 571, in create_connection
+    raise err
+timeout: timed out
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001142-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001142-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001142-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,PEJS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001142-
+2017-12-15_22-01-20

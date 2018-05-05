@@ -1,0 +1,4834 @@
+#Sync---Grade:20151---Teachers:20#Sync---Grade:20161---Teachers:20
+#------getCourse session_header-------#
+
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:20
+#------getCourse session_header-------#
+#Sync---Grade:20170---Teachers:20
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,G2FP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,G2FP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,G2FP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,G2FP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001151-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001151-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001151-
+0
+
+200,OK
+0001151-
+0
+
+#------getCourse session_header-------#
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,9GAD
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001342-
+0
+
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,HMSR
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,HMSR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001342-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001342-
+0
+
+200,OK
+0001342-
+0
+
+#------getCourse session_header-------#
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,WTJP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BHHU
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BHHU
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001342-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001288-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001288-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,UJ N3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,FMTF
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,FMTF
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,D3W4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001288-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,988R
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,5K K
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,S B EK
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,67XE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,31 F7
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,31 F7
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,UHJ R
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,J GFV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,J GFV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,J GFV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001288-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,BFSR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,CE7Y
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,Q4DD
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,CE7Y
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0001288-
+0
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,YZ29
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,K44 7 N
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,7WUE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,7WUE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,KJ43
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,QASJ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,392G
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,KBCV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,866F
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,UPZS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,GEWN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,A3 GH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,ARGU
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,UGKD
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,5S8V
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,5S8V
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,A326
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,483J
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,R6 DY
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,R6 DY
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,CY2R
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,D4F
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,N7 XQ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,CKAJ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BHJ2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,3 4 9A
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,TEPC
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,JQGG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,HRBP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,BZW5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,FDSS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,9M5
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,6QD3
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,U2Z
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,4BU6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,ZQ54
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,P3RE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,TTS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,VAH3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,NKZ B
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,5KBU
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,XGN7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,3ZEG
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,6HD2
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,YM3 U
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,ET7T
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,3NPB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,C9 BG
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,312R
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,K2YF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,PJXZ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,JYSX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,UVVT
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,8Y2V
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,E3 QG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,E3 QG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,563 S
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,PTFN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,2H1V13
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001104-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,HU6P
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,86TZ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,225 D
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,225 D
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000376-
+0
+
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#------getCourse session_header-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,JJ62
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DDJM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000997-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001104-
+0
+
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,5MB4
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,8EAN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,XRXY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000997-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000376-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001104-
+0
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,GQ4 E
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,KRR
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,UV89
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,662U
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000997-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000376-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000997-
+0
+
+200,OK
+#-------getValidcode-------#
+#------getCourse session_header-------#
+#---------validcode:,TNJ 2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,CAHC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000997-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,VZM
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,F QIDB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000376-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,CF US
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,NHDC
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NHDC
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,9325
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000376-
+0
+
+#------getCourse session_header-------#
+#---------validcode:,KCPX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000377-
+0
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,DZGU
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,7 XG8
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,U9AT
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001124-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000997-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001124-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,7KR2
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,ZGBE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001124-
+0
+
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,9KJS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001124-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,FBFB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,CRS6
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,WHM7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001124-
+0
+
+#------getCourse session_header-------#
+200,OK
+0001124-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,EGZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,P2DP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,ZPUK
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,TKGY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,AIRD 6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-
+0
+
+#------getCourse session_header-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,5 GMK
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0000376-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,PPNG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,5VSF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-
+0
+
+#------getCourse session_header-------#
+200,OK
+0000996-
+0
+
+#------getCourse session_header-------#
+#---------validcode:,NMWY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,ACMY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000375-
+0
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+0000376-
+0
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,ZGET
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,E7 EY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-
+0
+
+#------getCourse session_header-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,2X38
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,92TK
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+0000997-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,MFEZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,BSZB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,V
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,BSXR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,NQGX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,X3X
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,CT95
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,A2 Q9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,CZM7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,028P
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,A9T6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-
+0
+
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,5HDP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2014104-
+0
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,WBTC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,T397
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,RQDV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,B12711
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,A5 B7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,F335
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,39WS
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DWCP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-
+0
+
+#------getCourse session_header-------#
+200,OK
+0000377-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,HTAV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,333A
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,HND6
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,7Y2G
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001124-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,ZABG
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,ZQFS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,PE9
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,3R3 Y
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,42K9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#---------validcode:,737G
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,GM
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,5ITQS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,9TEF
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ZGAN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,U D122
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,VSEN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,TMPS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,VMW
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,SZV5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,SUYE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,R8513
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,9U9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,7QAZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#---------validcode:,APEX
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,3XP8
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,FJ7C
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,3CU5
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,GKZ4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,8UPN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0000996-
+0
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,BNN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010119-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,QAWH
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,QAWH
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,UUPT
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010119-
+0
+
+#------getCourse session_header-------#
+200,OK
+2014104-
+0
+
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,5C6T
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2010119-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,Y2NI
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,7653
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,C RWC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,4RRE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,6SJ5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,PZHV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,FWJB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2010119-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,9WSH
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,H29V
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010119-
+0
+
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,6SYV
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,T 3V
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,VCP5
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,4 DEY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,68D8
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,34W
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,VZ XX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,6MK5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,7 AJ F
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,9THZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,VJF9
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,GC42
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,9GQ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,USMV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,8 VVH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,NW2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,DNRR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,T157
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,YMW7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,54RP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,54RP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,0882
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,XNB
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DUGV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000658-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,4647
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010119-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,4TCZ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,FGJE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,CWUC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,APT 6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2010119-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,CJ47
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,ZUWS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,E33R
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,WAZF
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2010119-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,4Z56
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,SBRG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,SBRG
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,2E8U
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2010119-
+0
+
+200,OK
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,UYT2
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,G9MM
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,CC45
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,D360
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,RZCT
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DBGD
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,BKCC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RNMM
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DXE 8
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,492H
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,NHTY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,5G7P
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,KPBN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,SSXP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,WWIR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,3 KGY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,RUQS
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,WFYK
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,Y9UU
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,T49ME
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,362A
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,362A
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,NCTX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,B3 NB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2010170-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,9 XINB
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,W3FT
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,T5 P6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,XNFF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2010170-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,QBS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,QQAH
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,WSV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,W25
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010170-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,KEM6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,3EWN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010170-
+0
+
+#------getCourse session_header-------#
+#---------validcode:,XA52
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000511-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ZQ4
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#---------validcode:,WGV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,VARY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2010170-
+0
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,GGKN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,E 56
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,GARS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,F6R9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,6UMP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,J XTR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,RVJ N
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,KQXQ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,QQNX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,QNVVE
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,NJXH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#---------validcode:,KG4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,VERN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,5J32
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,Q18 P
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,K2 F
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,VK43
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DAY7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,P5PA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,9VKJ
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ZMVG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,W2 GE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,AY RS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,VQPIZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,NEX
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DQVU
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,F3IU4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001360-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RY GZ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,TZA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,P9PY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,BZEX
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,SZQF
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,3W3
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,469M
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010170-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,2 5MH
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,U2Y
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,TTAP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,555A
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010170-
+0
+
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,Z6F8
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,SURE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,AUUN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,4R62
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,HRPS
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,SU65
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,DFJYE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,NJFS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,VFA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,N5Y4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,7 DRH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,QXXC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RR4V
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,P67J
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,48ET
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,HVPF
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,N8J2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,G4IYN
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,ECG
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,MEEHB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,YX67
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,JFES
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,Q3 XI2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,EZU6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,GHS R
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,9IGGM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,S3K5
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,7XKA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+200,OK
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,DIKRS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,GJ N6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#---------validcode:,QHTT
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001127-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RACC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,0T H2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,DPCB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,253A
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,81 2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,VQYQ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,MF H13
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,UCB7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,AUGV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 286, in getCourse
+    print_msg(str(teacher_id) + "-" + ret["data"])
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 33, in print_msg
+    #print msg
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 146-155: ordinal not in range(128)
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,U6MF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015066-obtain validcode fail
+1
+obtain validcode fail

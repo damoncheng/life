@@ -1,0 +1,164 @@
+#Sync---Grade:20170---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20161---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20151---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20171---Teachers:1
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,V79N
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,ZAWTV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,CZDA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2017050-
+200,OK
+2017050-
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#---------validcode:,AZBF
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NPGV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-
+200,OK
+2017050-
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,GSXV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,5KSS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,F BTQ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,MEEJ D
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,3 RN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,ZN4V
+#------getTeacherExcel get teacher class table-------#
+2
+Traceback (most recent call last):
+  File "/data/hongxi_ziyi/life/shelter/work/management/commands/source/list.py", line 274, in getCourse
+    conn.request("POST", "/ZNPK/TeacherKBFB_rpt.aspx", urlencode(params), headers)
+  File "/usr/lib/python2.7/httplib.py", line 1039, in request
+    self._send_request(method, url, body, headers)
+  File "/usr/lib/python2.7/httplib.py", line 1073, in _send_request
+    self.endheaders(body)
+  File "/usr/lib/python2.7/httplib.py", line 1035, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python2.7/httplib.py", line 879, in _send_output
+    self.send(msg)
+  File "/usr/lib/python2.7/httplib.py", line 841, in send
+    self.connect()
+  File "/usr/lib/python2.7/httplib.py", line 822, in connect
+    self.timeout, self.source_address)
+  File "/usr/lib/python2.7/socket.py", line 571, in create_connection
+    raise err
+timeout: timed out
+
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,QAE 3H
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017050-obtain validcode fail
+1
+obtain validcode fail
+2017-12-22_22-02-44

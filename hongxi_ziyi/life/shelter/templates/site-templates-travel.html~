@@ -1,0 +1,148 @@
+{% extends "site-templates.html" %}
+{% load static %}
+{% block css %}
+    <style>
+        body {
+           background : url({% static 'images/travel_background.jpg' %}) no-repeat;
+           background-attachment : fixed;
+           background-position : center;
+        }
+
+        div#header_logo {
+        }
+
+        div#header_login {
+            float: right;
+            margin-right: 20px;
+        }
+
+        div#header_menu {
+            float: right;
+            width: 20%;
+        }
+
+        div#header_menu ul {
+            padding: 0px;
+        }
+
+        div#header_menu ul li {
+            float: left;
+            margin-right: 15px;
+            list-style-type : none;
+        }
+
+        div#header_menu ul li a {
+           text-decoration: none; 
+           font-family: Georgia, serif;
+           color: rgb(153,153,153);
+        }
+
+        div#header_menu ul li a:hover {
+            color: #473b3b;
+        }
+
+        div#header_menu ul li:first-child a {
+            color: #111;
+        }
+
+        div#footer {
+        }
+
+        div#footer_sendWord {
+            width: 30%;
+            margin: auto;
+        }
+
+        div#footer_sendWord img {
+            height: 50px;
+        }
+
+        div#body {
+            overflow: auto;
+        }
+
+        div#body div#content {
+            float: left;  
+            width: 78%;
+        } 
+
+        div#body div#side {
+            float: left;
+            width: 22%;
+        }
+    </style>
+    {% block css-travel %}
+    {% endblock %}
+{% endblock %}
+{% block js %}
+    <script>
+        TEMPLATE_ID = 1
+    </script>
+    {% block js-travel %}
+    {% endblock %}
+{% endblock %}
+{% block header %}
+    <div id="header_logo">
+        <img src="{% static 'images/logo.png' %}" />
+        <div id="header_login">
+            {% if s_username %}
+                [hello {{s_username}} !]
+                <a href="javascript:void(0)"
+                   onclick="get_html_location(
+                     TEMPLATE_ID,
+                     'normal',
+                     'Involve',
+                     'get_login_out',
+                      {}
+                   )"
+                >
+                    logout
+                </a>
+            {% else %}
+                <a href="../travel/login">login</a>
+            {% endif %}
+        </div>
+    </div>
+    <div id="header_menu">
+        <ul>
+            <li id="header_blog"><a href="../travel/home?menu=blog">Blog</a></li>
+            {% if s_username %}
+                <li id="header_admin">
+                    <a href="javascript:void(0)"
+                       onclick="get_html_location(
+                          TEMPLATE_ID,
+                          'normal',
+                          'Involve',
+                          'get_admin',
+                          {
+                             'menu':'admin'
+                          }
+                       )"
+                    >
+                    Admin
+                    </a>
+                </li>
+            {% endif %}
+            <li id="header_about"><a href="#">About</a></li>
+        </ul>
+    </div>
+    <div style="clear:both"></div>
+    {% block header_travel %}
+    {% endblock %}
+{% endblock %}
+{% block body %}
+    <div id="content">
+        {% block content-travel %}
+        {% endblock %}
+    </div>
+    <div id="side">
+        {% block side-travel %}
+        {% endblock %}
+    </div>
+    <div style="clear:both"></div>
+{% endblock %}
+{% block footer %}
+    <div id="footer_sendWord">
+        <img src="{% static 'images/footer.png' %}" />
+    </div>
+{% endblock %}

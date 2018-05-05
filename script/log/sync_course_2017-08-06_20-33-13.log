@@ -1,0 +1,844 @@
+#Sync---Grade:20170---Teachers:10
+#------getCourse session_header-------#
+#Sync---Grade:20161---Teachers:10
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:10
+#------getCourse session_header-------#
+#Sync---Grade:20151---Teachers:10
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NNAS
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NNAS
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NNAS
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+0001400-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Davis&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270181]英语写作I<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >16级英语本科(1)班<br></td><td width='5%' align='right' >36<br></td><td width='12%' align='left' >1-16周&ensp;一[1-2节]<br></td><td width='15%' align='left' >执文楼426<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >16级英语本科(2)班<br></td><td width='5%' align='right' >37<br></td><td width='12%' align='left' >1-16周&ensp;一[3-4节]<br></td><td width='15%' align='left' >执文楼427<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >16级英语本科(3)班<br></td><td width='5%' align='right' >36<br></td><td width='12%' align='left' >1-16周&ensp;三[1-2节]<br></td><td width='15%' align='left' >执文楼411<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >16级翻译本科班<br></td><td width='5%' align='right' >29<br></td><td width='12%' align='left' >1-16周&ensp;四[1-2节]<br></td><td width='15%' align='left' >执文楼405<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' >[270183]英语写作III<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >2015级英语本科(3)班<br></td><td width='5%' align='right' >33<br></td><td width='12%' align='left' >1-16周&ensp;四[3-4节]<br></td><td width='15%' align='left' >执文楼433<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >2015级翻译本科班<br></td><td width='5%' align='right' >31<br></td><td width='12%' align='left' >1-16周&ensp;一[5-6节]<br></td><td width='15%' align='left' >执文楼405<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+0001400-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2015-2016学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Davis&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270003]英美电影赏析<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2012级英语本科(1)班 2012级英语本科(2)班 2012级英语翻译本科班<br></td><td width='5%' align='right' >135<br></td><td width='12%' align='left' >1-10周&ensp;三[1-2节]<br></td><td width='15%' align='left' >教学楼301教室<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2012级英语本科(3)班 2012级英语本科(4)班 2012级英语本科(5)班<br></td><td width='5%' align='right' >145<br></td><td width='12%' align='left' >1-10周&ensp;四[1-2节]<br></td><td width='15%' align='left' >综合楼一阶<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[270037]英语口语IV<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2014级英语本科(1)班<br></td><td width='5%' align='right' >40<br></td><td width='12%' align='left' >1-18周&ensp;一[1-2节]<br></td><td width='15%' align='left' >综合楼501教室<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2014级英语本科(2)班<br></td><td width='5%' align='right' >38<br></td><td width='12%' align='left' >1-18周&ensp;二[1-2节]<br></td><td width='15%' align='left' >综合楼502教室<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >2014级英语本科(3)班<br></td><td width='5%' align='right' >39<br></td><td width='12%' align='left' >1-18周&ensp;一[3-4节]<br></td><td width='15%' align='left' >综合楼202教室<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >2014级英语本科(4)班<br></td><td width='5%' align='right' >42<br></td><td width='12%' align='left' >1-18周&ensp;三[3-4节]<br></td><td width='15%' align='left' >综合楼203教室<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+#------getCourse session_header-------#
+0001400-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Davis&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[040086]视听说<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2014级英语本科(1)班<br></td><td width='5%' align='right' >42<br></td><td width='12%' align='left' >1-18周&ensp;二[1-2节]<br></td><td width='15%' align='left' >执文楼304<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2014级英语本科(2)班<br></td><td width='5%' align='right' >44<br></td><td width='12%' align='left' >1-18周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执文楼305<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >2014级英语本科(3)班<br></td><td width='5%' align='right' >45<br></td><td width='12%' align='left' >1-18周&ensp;五[1-2节]<br></td><td width='15%' align='left' >执文楼306<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >2014级英语本科(4)班<br></td><td width='5%' align='right' >44<br></td><td width='12%' align='left' >1-18周&ensp;五[3-4节]<br></td><td width='15%' align='left' >执文楼307<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' >[270131]英语语音I<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >005<br></td><td width='9%' align='left' >16级英语本科(2)班<br></td><td width='5%' align='right' >37<br></td><td width='12%' align='left' >5-18周&ensp;一[5-6节]<br></td><td width='15%' align='left' >执文楼302<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >006<br></td><td width='9%' align='left' >16级英语本科(3)班<br></td><td width='5%' align='right' >35<br></td><td width='12%' align='left' >5-18周&ensp;一[7-8节]<br></td><td width='15%' align='left' >执文楼303<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' >[430071]英语语音（专）<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >16级英语教育专科(1)班<br></td><td width='5%' align='right' >53<br></td><td width='12%' align='left' >5-18周&ensp;一[1-2节]<br></td><td width='15%' align='left' >执毓楼208<br></td></tr><td width='5%' align='center' >8<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >16级英语教育专科(2)班<br></td><td width='5%' align='right' >54<br></td><td width='12%' align='left' >5-18周&ensp;三[7-8节]<br></td><td width='15%' align='left' >执毓楼209<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,WJZY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001400-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,92FV
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,EMYN
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,EMYN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+200,OK
+0001401-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2015-2016学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Jenny&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270001]英美概况<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2012级英语本科(1)班 2012级英语本科(2)班 2012级英语本科(3)班<br></td><td width='5%' align='right' >149<br></td><td width='12%' align='left' >1-10周&ensp;二[1-2节]<br></td><td width='15%' align='left' >综合楼二阶<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2012级英语本科(4)班 2012级英语本科(5)班 2012级英语翻译本科班<br></td><td width='5%' align='right' >131<br></td><td width='12%' align='left' >1-10周&ensp;二[3-4节]<br></td><td width='15%' align='left' >综合楼二阶<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[270139]英语口语II<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级英语本科(1)班<br></td><td width='5%' align='right' >32<br></td><td width='12%' align='left' >1-18周&ensp;五[3-4节]<br></td><td width='15%' align='left' >执文楼103<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2015级英语本科(2)班<br></td><td width='5%' align='right' >34<br></td><td width='12%' align='left' >1-18周&ensp;三[5-6节]<br></td><td width='15%' align='left' >执文楼107<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >2015级英语本科(3)班<br></td><td width='5%' align='right' >33<br></td><td width='12%' align='left' >1-18周&ensp;三[7-8节]<br></td><td width='15%' align='left' >执文楼207<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >2015级翻译本科班<br></td><td width='5%' align='right' >30<br></td><td width='12%' align='left' >1-18周&ensp;五[1-2节]<br></td><td width='15%' align='left' >执文楼102<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+0001401-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Jenny&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270075]英语口语I<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >16级英语本科(1)班<br></td><td width='5%' align='right' >36<br></td><td width='12%' align='left' >5-18周&ensp;四[3-4节]<br></td><td width='15%' align='left' >执文楼301<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >16级英语本科(2)班<br></td><td width='5%' align='right' >37<br></td><td width='12%' align='left' >5-18周&ensp;一[7-8节]<br></td><td width='15%' align='left' >执文楼302<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >16级英语本科(3)班<br></td><td width='5%' align='right' >35<br></td><td width='12%' align='left' >5-18周&ensp;一[5-6节]<br></td><td width='15%' align='left' >执文楼303<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >16级翻译本科班<br></td><td width='5%' align='right' >29<br></td><td width='12%' align='left' >5-18周&ensp;四[1-2节]<br></td><td width='15%' align='left' >执文楼312<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >005<br></td><td width='9%' align='left' >16级汉语国际本科班<br></td><td width='5%' align='right' >39<br></td><td width='12%' align='left' >5-18周&ensp;二[1-2节]<br></td><td width='15%' align='left' >执文楼313<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' >[270131]英语语音I<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >16级翻译本科班<br></td><td width='5%' align='right' >29<br></td><td width='12%' align='left' >5-18周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执文楼312<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' >[430071]英语语音（专）<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >16级英语教育专科(3)班<br></td><td width='5%' align='right' >54<br></td><td width='12%' align='left' >5-18周&ensp;三[1-2节]<br></td><td width='15%' align='left' >执毓楼219<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+0001401-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Jenny&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270075]英语口语I<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >17级英语本科(1)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >4-18周&ensp;一[3-4节]<br></td><td width='15%' align='left' >执文楼407<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >17级英语本科(2)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >4-18周&ensp;一[1-2节]<br></td><td width='15%' align='left' >执文楼408<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >17级英语本科(3)班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >4-18周&ensp;三[3-4节]<br></td><td width='15%' align='left' >执文楼409<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >17级汉语国际本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >4-18周&ensp;四[3-4节]<br></td><td width='15%' align='left' >执文楼431<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' >[270183]英语写作III<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级英语本科(1)班<br></td><td width='5%' align='right' >32<br></td><td width='12%' align='left' >1-16周&ensp;四[1-2节]<br></td><td width='15%' align='left' >执文楼404<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2015级英语本科(2)班<br></td><td width='5%' align='right' >34<br></td><td width='12%' align='left' >1-16周&ensp;三[1-2节]<br></td><td width='15%' align='left' >执文楼406<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' >[270247]英语口语<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >17级翻译本科班<br></td><td width='5%' align='right' >0<br></td><td width='12%' align='left' >4-18周&ensp;一[5-6节]<br></td><td width='15%' align='left' >执文楼402<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,CSGC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+200,OK
+0001400-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Davis&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270005]古希腊神话体系<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2013级英语本科(1)班 2013级英语本科(2)班<br></td><td width='5%' align='right' >78<br></td><td width='12%' align='left' >1-10周&ensp;四[3-4节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2013级英语本科(3)班 2013级英语本科(4)班 2013级英语本科(5)班<br></td><td width='5%' align='right' >116<br></td><td width='12%' align='left' >1-10周&ensp;四[5-6节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[270139]英语口语II<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >16级英语本科(1)班<br></td><td width='5%' align='right' >36<br></td><td width='12%' align='left' >1-16周&ensp;一[3-4节]<br></td><td width='15%' align='left' >执文楼301<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >16级英语本科(2)班<br></td><td width='5%' align='right' >37<br></td><td width='12%' align='left' >1-16周&ensp;二[5-6节]<br></td><td width='15%' align='left' >执文楼302<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >16级英语本科(3)班<br></td><td width='5%' align='right' >36<br></td><td width='12%' align='left' >1-16周&ensp;二[7-8节]<br></td><td width='15%' align='left' >执文楼304<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >16级翻译本科班<br></td><td width='5%' align='right' >29<br></td><td width='12%' align='left' >1-16周&ensp;一[5-6节]<br></td><td width='15%' align='left' >执文楼312<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >005<br></td><td width='9%' align='left' >16级汉语国际本科班<br></td><td width='5%' align='right' >39<br></td><td width='12%' align='left' >1-16周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执文楼313<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,KAS K
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,KAS K
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,WIPE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,B1389
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,B1389
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,XDXM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0001104-
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,H2PP
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,YQUN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-
+#------getCourse session_header-------#
+#---------validcode:,GI CG9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001401-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,Z7WV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000376-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,QSM5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000376-
+#------getCourse session_header-------#
+#---------validcode:,YV3G
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,VADE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,RQPC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001401-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：外国语学院&ensp;&ensp;教师：Jenny&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[270001]英美概况<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2013级英语本科(1)班 2013级英语本科(2)班<br></td><td width='5%' align='right' >78<br></td><td width='12%' align='left' >1-10周&ensp;四[7-8节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2013级英语本科(3)班 2013级英语本科(4)班 2013级英语本科(5)班<br></td><td width='5%' align='right' >116<br></td><td width='12%' align='left' >1-10周&ensp;二[5-6节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[270003]英美电影赏析<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2013级英语本科(1)班 2013级英语本科(2)班<br></td><td width='5%' align='right' >78<br></td><td width='12%' align='left' >1-10周&ensp;二[1-2节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2013级英语本科(3)班 2013级英语本科(4)班 2013级英语本科(5)班<br></td><td width='5%' align='right' >116<br></td><td width='12%' align='left' >1-10周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执文楼119教室<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' >[270137]英语语音II<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >16级英语本科(3)班<br></td><td width='5%' align='right' >36<br></td><td width='12%' align='left' >1-16周&ensp;一[1-2节]<br></td><td width='15%' align='left' >执文楼304<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >16级翻译本科班<br></td><td width='5%' align='right' >29<br></td><td width='12%' align='left' >1-16周&ensp;一[3-4节]<br></td><td width='15%' align='left' >执文楼312<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+0001104-
+#------getCourse session_header-------#
+200,OK
+200,OK
+0000997-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,238N
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000997-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,EQGA
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,B558
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,HBFU
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001104-
+#------getCourse session_header-------#
+200,OK
+0000376-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,RTZG
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,TJ 3B
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,E CIQ4
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,3NJP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000376-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,UZYR
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000376-
+200,OK
+#-------getValidcode-------#
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000377-
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,SCND
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000376-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,N3ENJ
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,EWSE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000997-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001124-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,JRZE
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000376-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,AZ QY
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NQWB
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000997-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001124-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,V7JM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000997-
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,EQTP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000997-
+#------getCourse session_header-------#
+#---------validcode:,8W3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,GRND
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+0001124-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,FETZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000377-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,KXKA
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000377-
+#------getCourse session_header-------#
+#---------validcode:,RGCK
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,RGCK
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001124-
+200,OK
+0000377-
+#------getCourse session_header-------#
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,6FUB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0001124-
+#------getCourse session_header-------#
+200,OK
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,N5RF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001124-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,2SY4
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0001124-
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,552X
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0000375-
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,J797
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000375-
+#---------validcode:,9 HM
+#------getTeacherExcel get teacher class table-------#
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,A95A
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,3 KJ B
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,753M
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,UE67
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000375-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000996-
+#------getCourse session_header-------#
+#---------validcode:,AJ52
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,HEY5
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,YN44
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,A9J2
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000375-
+#------getCourse session_header-------#
+200,OK
+2014104-
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,SQMZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,3V32
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,6 UXX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,A7 T3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,3 2 DE
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,EPUB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000996-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,AXSJ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RKAX
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,ZQS9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000996-
+#------getCourse session_header-------#
+200,OK
+2014104-
+#---------validcode:,67W
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,62 Q4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000996-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,ZHCH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+0000996-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,K4C 3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2014104-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,CDVC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-
+#---------validcode:,FCRB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2014104-

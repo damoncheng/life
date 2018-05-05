@@ -1,0 +1,38 @@
+{% extends "site-templates-travel.html" %}
+{% load static %}
+
+{% block css-travel %}
+   <style> 
+       #login_div {
+          width : 50%;
+          margin: 0 auto;
+       }
+
+       #login_div label {
+          margin-left : 20px;
+       }
+   </style>
+{% endblock %}
+
+{% block header %}
+    <div id="header_logo">
+        <img src="{% static 'images/logo.png' %}" />
+    </div>
+{% endblock %}
+
+{% block body %}
+    <div id="login_div">
+        <form class="form-inline" method="POST" action="login">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="username">username</label>
+                <input type="text" class="form-control" id="username" name="username" placeholder="username" />
+            </div>
+            <div class="form-group">
+                <label for="password">password</label>
+                <input type="password" class="form-control" id="password" name="password" placeholder="password" />
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+    </div>
+{% endblock %}

@@ -1,0 +1,261 @@
+{% extends "site-templates.html" %}
+
+{% block css %}
+	<style>
+		#work_content_div {
+			width : 95%;
+			margin : auto;
+		}
+	</style>
+{% endblock %}
+
+{% block js %}
+	<script>
+		var teacher_name_list = []
+		$(function(){
+
+			update_course();
+
+			$("select#teacher option").each(function(index){
+				teacher_name_list.push($(this).val() + "(" + $(this).html() + ")") 
+			});
+
+			$("input#teacher_search").typeahead({
+				source : teacher_name_list,
+				items : 8,
+				updater : function(item) {
+					return item;
+				},
+				displayText : function(item) {
+					return item;
+				},
+				alertSelect : function(item) {
+				
+				},
+			});
+
+			$("#teacher_export_button").click(function(){
+				var teacher_name = $("#teacher_search").val();
+				teacher_name = $.trim(teacher_name)
+				if(teacher_name == "")
+				{
+					alert("the name is empty, cannot be imported!");
+					return;
+				}
+
+				var teacher_number = teacher_name.match(/^\d+/)
+				if(teacher_number)
+				{
+					var selected_option = $("select option[value=" + teacher_number[0]  + "]")
+					if(selected_option.length == 1)
+					{
+						var exported_teacher_name =  $("#teacher_export_textarea").val();
+						if(exported_teacher_name.indexOf(teacher_name) == -1)
+						{
+							exported_teacher_name += teacher_name;
+							exported_teacher_name += ";";
+							$("#teacher_export_textarea").val(exported_teacher_name);
+						}
+						else
+						{
+							alert( teacher_name + " have been imported!");
+						}
+					}
+					else
+					{
+						alert( teacher_name + " is not exist, can not be imported!");
+					}
+				}
+
+			});
+		});
+
+		function update_teacher_name(){
+			var grade = $("#grade").val();
+			var teacher = $("#teacher").val();
+			console.log("update_teacher_name:" + grade)
+			location.href = '{% url "work_home" %}' + "?grade_id=" + grade + "&teacher_id=" + teacher
+
+		
+		};
+
+		function search_teacher_name(){
+			var teacher_name = $("#teacher_search").val();
+			teacher_name = $.trim(teacher_name)
+			if(teacher_name == "")
+			{
+				alert("the name can not be empty!");
+				return;
+			}
+
+			var teacher_number = teacher_name.match(/^\d+/)
+			if(teacher_number)
+			{
+				var selected_option = $("select option[value=" + teacher_number[0]  + "]")
+				if(selected_option.length == 1)
+				{
+					$("#teacher").val(teacher_number[0]);
+					update_course();
+				}
+				else
+				{
+					alert( teacher_name + " is not exist!");
+				}
+			}
+		};
+
+		function update_course(){
+			var grade = $("#grade").val();
+			var teacher = $("#teacher").val();
+			console.log("update course")
+			console.log(grade)
+			console.log(teacher)
+			var course_dict = {}
+			course_dict["grade"] = grade
+			course_dict["teacher"] = teacher
+
+			$.ajax({
+				url : '{% url "work_teacher_course" %}',
+				type : "GET",
+				dataType : "json",
+				async : false,
+				data : course_dict,
+				contentType : "application/json;charset=utf-8;",
+				success : function(res) {
+					console.log(res)
+				    console.log(res["result"])
+					if(res["result"] == 0)
+					{
+						console.log("success")
+						$("#course").html("");
+						$("#course").html(res["data"]);
+					}
+					else
+					{
+						console.log("fail")
+						alert(res["msg"]);
+					}
+				
+				},
+				error : function(ht, status, error) {
+					alert("加载老师课程表失败:" + error);
+				}
+			
+			});
+		};
+
+		function download_teacher_excel(grade, teacher_str){
+			var url = '{% url "work_teacher_excel" %}' + "?grade_id=" + grade + "&teacher_name=" + encodeURIComponent(teacher_str)
+			window.open(url)
+		};
+
+		function teach_download_teacher_excel(grade, teacher_str){
+			var url = '{% url "work_teach_teacher_excel" %}' + "?grade_id=" + grade + "&teacher_name=" + encodeURIComponent(teacher_str)
+			window.open(url)
+		};
+
+		function single_download_teacher_excel(){
+			var grade = $("#grade").val();
+			var teacher_name = $("#teacher option:selected").html();
+			if(teacher_name == "")
+			{
+				alert("the name can not be empty!");
+				return;
+			}
+			var teacher_number = $("#teacher option:selected").val();
+			var teacher_str = teacher_number + "(" + teacher_name + ")";
+			download_teacher_excel(grade, teacher_str);
+			
+		
+		};
+
+		function batch_download_teacher_excel(){
+			var grade = $("#grade").val();
+			var teacher_str = $("#teacher_export_textarea").val();
+			if(teacher_str == "")
+			{
+				alert("the exported name can not be empty!");
+				return;
+			}
+			else if(!teacher_str.match(/^((\d+)\([^\)]+\);?)+$/))
+			{
+				alert("the exported name's format is wrong!");
+				return;
+			}
+			download_teacher_excel(grade, teacher_str);
+		};
+
+		function teach_batch_download_teacher_excel(){
+			var grade = $("#grade").val();
+			var teacher_str = $("#teacher_export_textarea").val();
+			if(teacher_str == "")
+			{
+				alert("the exported name can not be empty!");
+				return;
+			}
+			else if(!teacher_str.match(/^((\d+)\([^\)]+\);?)+$/))
+			{
+				alert("the exported name's format is wrong!");
+				return;
+			}
+			teach_download_teacher_excel(grade, teacher_str);
+		};
+
+
+	</script>
+{% endblock %}
+
+{% block body %}
+<div id="work_content_div" class="form-horizontal">
+	{% if grade_id %}
+		<div class="control-group">
+			<label class="control-label">学期:</label>
+			<div class="controls">
+				<select id="grade" class="form-control" onchange="update_teacher_name()">
+					{% for one_grade in grades %}
+						{% if one_grade.number == grade_id %}
+							<option value="{{one_grade.number}}" selected>{{one_grade.name}}</option>
+						{% else %}
+							<option value="{{one_grade.number}}">{{one_grade.name}}</option>
+						{% endif %}
+					{% endfor %}
+				</select>
+			</div>
+		</div>
+		<div class="control-group">
+			<label class="control-label">教师:</label>
+			<div class="controls">
+				<select id="teacher" class="form-control" onchange="update_course()">
+					{% for one_teacher in teachers %}
+						{% if teacher_id and one_teacher.number == teacher_id %}
+							<option class="teacher_name {{one_teacher.grade.number}}" value="{{one_teacher.number}}" selected>{{one_teacher.name}}</option>
+						{% else %}
+							<option class="teacher_name {{one_teacher.grade.number}}" value="{{one_teacher.number}}">{{one_teacher.name}}</option>
+						{% endif %}
+					{% endfor %}
+				</select>
+				<input id="teacher_excel_button" class="btn btn-default" type="button" value="导出Excel" onclick="single_download_teacher_excel(this)" />
+			</div>
+		</div>
+		<div class="control-group">
+			<label class="control-label">教师检索:</label>
+			<div class="controls">
+				<input id="teacher_search" class="form-control" data-provide="typeahead" />
+				<input id="teacher_search_button" class="btn btn-default" type="button" value="检索" onclick="search_teacher_name()" />
+				<input id="teacher_export_button" class="btn btn-default" type="button" value="添加到Excel导出框" />
+			</div>
+		</div>
+		<div class="control-group">
+			<label class="control-label">Excel导出框:</label>
+			<div class="controls">
+				<textarea id="teacher_export_textarea" class="form-control" rows="3"></textarea>
+				<input id="batch_teacher_excel_button" class="btn btn-default" type="button" value="原始数据:Batch导出Excel" onclick="batch_download_teacher_excel(this)"/>
+				<input id="teach_batch_teacher_excel_button" class="btn btn-default" type="button" value="教学评估:Batch导出Excel" onclick="teach_batch_download_teacher_excel(this)"/>
+			</div>
+		</div>
+
+		<div id="course">
+		</div>
+	{% endif %}
+</div>
+{% endblock %}

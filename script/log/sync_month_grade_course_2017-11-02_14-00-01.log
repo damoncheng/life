@@ -1,0 +1,110 @@
+2017-11-02_14-00-01
+#Sync---Grade:20170---Teachers:7
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,MD7R
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001133-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：美术学院&ensp;&ensp;教师：何伟&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[370111]素描基础Ⅰ·静物<br></td><td width='5%' align='right' >2.5<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >17级美术本科(1)班<br></td><td width='5%' align='right' >26<br></td><td width='12%' align='left' >4-7周&ensp;三[1-4节]<br></td><td width='15%' align='left' >执艺楼A208<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >4-7周&ensp;三[5-8节]<br></td><td width='15%' align='left' >执艺楼A208<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >4-7周&ensp;四[1-4节]<br></td><td width='15%' align='left' >执艺楼A208<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >4-7周&ensp;四[5-8节]<br></td><td width='15%' align='left' >执艺楼A208<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' >[370164]油画基础<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >16级美术本科(1)班<br></td><td width='5%' align='right' >25<br></td><td width='12%' align='left' >9-12周&ensp;三[1-4节]<br></td><td width='15%' align='left' >执艺楼A109<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >9-12周&ensp;三[5-8节]<br></td><td width='15%' align='left' >执艺楼A109<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >9-12周&ensp;四[1-4节]<br></td><td width='15%' align='left' >执艺楼A109<br></td></tr><td width='5%' align='center' >8<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >9-12周&ensp;四[5-8节]<br></td><td width='15%' align='left' >执艺楼A109<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,M8 VB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000701-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,588D
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000701-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,YYPP
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2013043-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,TRGX
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001456-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,CY68
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001456-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：生物与农业科技学院&ensp;&ensp;教师：钱正敏&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[310094]植物学实验I<br></td><td width='5%' align='right' >0.5<br></td><td width='9%' align='left' >实验<br></td><td width='10%' align='left' >必修课/专业基础课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >17级生物本科(1)班<br></td><td width='5%' align='right' >27<br></td><td width='12%' align='left' >5-16周&ensp;二[1-2节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-16周&ensp;二[1-2节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >实验<br></td><td width='10%' align='left' >必修课/专业基础课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >17级生物本科(1)班<br></td><td width='5%' align='right' >26<br></td><td width='12%' align='left' >5-16周&ensp;二[5-6节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-16周&ensp;二[5-6节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >实验<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >003<br></td><td width='9%' align='left' >17级生物本科(2)班<br></td><td width='5%' align='right' >26<br></td><td width='12%' align='left' >5-16周&ensp;三[1-2节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >实验<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >004<br></td><td width='9%' align='left' >17级生物本科(2)班<br></td><td width='5%' align='right' >27<br></td><td width='12%' align='left' >5-16周&ensp;三[5-6节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >实验<br></td><td width='10%' align='left' >必修课/专业基础课<br></td><td width='5%' align='center' >005<br></td><td width='9%' align='left' >17级植科本科班<br></td><td width='5%' align='right' >25<br></td><td width='12%' align='left' >5-16周&ensp;四[1-2节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr><td width='5%' align='center' >8<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-16周&ensp;四[1-2节]<br></td><td width='15%' align='left' >综合实验楼231<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,PE9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010013-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,E4CD
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2010013-
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,H2 P3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001228-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RCZ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001228-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,V72R
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0001228-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：教务处&ensp;&ensp;教师：袁廷香&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[300049]自然科学概论<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/限选课<br></td><td width='5%' align='center' >045<br></td><td width='9%' align='left' >16级旅游专科(1)班<br></td><td width='5%' align='right' >49<br></td><td width='12%' align='left' >1-16周&ensp;四[5-6节]<br></td><td width='15%' align='left' >执文楼307<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >公共课/限选课<br></td><td width='5%' align='center' >046<br></td><td width='9%' align='left' >16级旅游专科(2)班<br></td><td width='5%' align='right' >44<br></td><td width='12%' align='left' >1-16周&ensp;四[7-8节]<br></td><td width='15%' align='left' >执文楼303<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[300132]有机结构分析<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级化学本科班<br></td><td width='5%' align='right' >48<br></td><td width='12%' align='left' >9-16周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执理楼504<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >9-16周&ensp;四[3-4节]<br></td><td width='15%' align='left' >执理楼505<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,7N58
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-
+#---updated:7, saved:0----#
+2017-11-02_14-01-52

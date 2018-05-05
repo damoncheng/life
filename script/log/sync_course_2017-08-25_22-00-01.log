@@ -1,0 +1,450 @@
+#Sync---Grade:20170---Teachers:3
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:3
+#------getCourse session_header-------#
+#Sync---Grade:20161---Teachers:3
+#------getCourse session_header-------#
+#Sync---Grade:20151---Teachers:3
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,AAVB
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,5PCF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2015073-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：成先镜&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[050015]高等数学<br></td><td width='5%' align='right' >4.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >16级旅游类本科(1)班<br></td><td width='5%' align='right' >70<br></td><td width='12%' align='left' >5-18周&ensp;一[3-4节]<br></td><td width='15%' align='left' >执文楼112<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-18周&ensp;五[1-2节]<br></td><td width='15%' align='left' >执文楼112<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >16级旅游类本科(2)班<br></td><td width='5%' align='right' >63<br></td><td width='12%' align='left' >5-18周&ensp;一[1-2节]<br></td><td width='15%' align='left' >执文楼115<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >5-18周&ensp;五[3-4节]<br></td><td width='15%' align='left' >执文楼115<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+200,OK
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,DD8 6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,T7 DH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,UTSM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,2HQC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+200,OK
+2015073-
+#------getCourse session_header-------#
+#---------validcode:,WJZN
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,95AM
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,WIX C
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,GJJ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,VMST
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,MA6N
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2015073-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,TZND
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+2015073-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：成先镜&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[280099]数据库原理<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2013级统计学本科班<br></td><td width='5%' align='right' >55<br></td><td width='12%' align='left' >1-9周&ensp;一[1-2节]<br></td><td width='15%' align='left' >执矩楼215<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-9周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执矩楼114<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-9周&ensp;三[3-4节]<br></td><td width='15%' align='left' >执矩楼114<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' >[280131]运输管理<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/限选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2014级数学(模仿)本科班<br></td><td width='5%' align='right' >37<br></td><td width='12%' align='left' >1-18周&ensp;一[3-4节]<br></td><td width='15%' align='left' >执理楼406<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,Y9EY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000574-
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+2015073-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2015-2016学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：成先镜&ensp;&ensp;性别：男&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[280089]C语言程序设计<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级数学(模仿)本科班<br></td><td width='5%' align='right' >35<br></td><td width='12%' align='left' >1-18周&ensp;一[5-6节]<br></td><td width='15%' align='left' >执矩楼215<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-18周&ensp;三[5-6节]<br></td><td width='15%' align='left' >执矩楼215<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[280099]数据库原理<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2012级统计学本科班<br></td><td width='5%' align='right' >52<br></td><td width='12%' align='left' >1-9周&ensp;一[1-2节]<br></td><td width='15%' align='left' >综合实验楼二楼机房<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-9周&ensp;三[1-2节]<br></td><td width='15%' align='left' >综合实验楼二楼机房<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-9周&ensp;五[1-2节]<br></td><td width='15%' align='left' >综合实验楼二楼机房<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,GFRV
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,4220
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,QEHK
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,786M
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000574-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2015-2016学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：喻晓丹&ensp;&ensp;性别：女&ensp;&ensp;职称：教授</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[080162]人体解剖生理学<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >必修课/专业基础课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2013级生物本科(1)班<br></td><td width='5%' align='right' >51<br></td><td width='12%' align='left' >1-14周&ensp;三[1-2节]<br></td><td width='15%' align='left' >教学楼305教室<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-14周&ensp;三[1-2节]<br></td><td width='15%' align='left' >教学楼305教室<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-14周&ensp;五[1-2节]<br></td><td width='15%' align='left' >教学楼305教室<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-14周&ensp;五[1-2节]<br></td><td width='15%' align='left' >教学楼305教室<br></td></tr><td width='5%' align='center' >5<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2013级生物本科(2)班<br></td><td width='5%' align='right' >49<br></td><td width='12%' align='left' >1-14周&ensp;二[1-2节]<br></td><td width='15%' align='left' >教学楼309教室<br></td></tr><td width='5%' align='center' >6<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-14周&ensp;四[1-2节]<br></td><td width='15%' align='left' >教学楼309教室<br></td></tr><td width='5%' align='center' >7<br></td><td width='25%' align='left' >[350187]人体生理学<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业基础课/必修课<br></td><td width='5%' align='center' >002<br></td><td width='9%' align='left' >2015级体育教育本科(2)班<br></td><td width='5%' align='right' >42<br></td><td width='12%' align='left' >1-16周&ensp;四[5-7节]<br></td><td width='15%' align='left' >执理楼407<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+0000574-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,7SK9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,Y828
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000574-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：喻晓丹&ensp;&ensp;性别：女&ensp;&ensp;职称：教授</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[430051]人体解剖学（专）<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >006<br></td><td width='9%' align='left' >16级体育教育专科班<br></td><td width='5%' align='right' >29<br></td><td width='12%' align='left' >5-18周&ensp;四[5-7节]<br></td><td width='15%' align='left' >执毓楼101<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,YWRA
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,HPK5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000574-
+#---------validcode:,ZZQ2
+#------getTeacherExcel get teacher class table-------#
+#------getCourse session_header-------#
+200,OK
+#---------validcode:,3 KMC
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2017-2018学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：钟金贵&ensp;&ensp;性别：男&ensp;&ensp;职称：教授</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[250203]旅游财务管理<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级旅游管理本科班 2015级旅管(规划)本科班<br></td><td width='5%' align='right' >49<br></td><td width='12%' align='left' >1-6,9-10周&ensp;二[1-4节]<br></td><td width='15%' align='left' ><br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,7 X38
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,36QF
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+200,OK
+#-------getValidcode-------#
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,S9K5
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,XDGH
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+0000070-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2015-2016学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：钟金贵&ensp;&ensp;性别：男&ensp;&ensp;职称：教授</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[030162]主要客源国概况<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2014级旅游管理本科班 2014级旅管(规划)本科班<br></td><td width='5%' align='right' >38<br></td><td width='12%' align='left' >1-18周&ensp;三[5-7节]<br></td><td width='15%' align='left' >教学楼811教室<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' >[250095]贵州少数民族文化<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2013级酒店管理本科(1)班 2013级酒店管理本科(2)班<br></td><td width='5%' align='right' >106<br></td><td width='12%' align='left' >1-18周&ensp;四[1-2节]<br></td><td width='15%' align='left' >教学楼501教室<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+200,OK
+#-------getValidcode-------#
+#---------validcode:,5 4N9
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,T7432 F
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+#---------validcode:,X8U4
+#------getTeacherExcel get teacher class table-------#
+200,OK
+200,OK
+0000070-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：钟金贵&ensp;&ensp;性别：男&ensp;&ensp;职称：教授</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[030174]西南民族志<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/任选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2014级旅游管理本科班 2014级旅管(规划)本科班<br></td><td width='5%' align='right' >48<br></td><td width='12%' align='left' >1-6,8-10周&ensp;二[3-4节]<br></td><td width='15%' align='left' >执文楼103<br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-6,8-10周&ensp;四[5-6节]<br></td><td width='15%' align='left' >执文楼103<br></td></tr><td width='5%' align='center' >3<br></td><td width='25%' align='left' >[250205]旅游客源国概况<br></td><td width='5%' align='right' >2.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/限选课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级旅游管理专科班<br></td><td width='5%' align='right' >38<br></td><td width='12%' align='left' >1-8周&ensp;二[1-2节]<br></td><td width='15%' align='left' >执文楼101<br></td></tr><td width='5%' align='center' >4<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-8周&ensp;四[7-8节]<br></td><td width='15%' align='left' >执文楼101<br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,REY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000070-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,M35A
+#------getTeacherExcel get teacher class table-------#
+200,OK
+0000070-<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>遵义师范学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2016-2017学年第二学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：&ensp;&ensp;教师：钟金贵&ensp;&ensp;性别：男&ensp;&ensp;职称：教授</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center  CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><tr><td width='5%' align=center >序号</td><td width='25%' align=center >课程</td><td width='5%' align=center >学分</td><td width='9%' align=center >授课方式</td><td width='10%' align=center >课程类别</td><td width='5%' align=center >上课<br>班号</td><td width='9%' align=center >上课班级</td><td width='5%' align=center >上课<br>人数</td><td width='12%' align=center >时间</td><td width='15%' align=center >地点</td></tr><td width='5%' align='center' >1<br></td><td width='25%' align='left' >[250255]酒店财务管理<br></td><td width='5%' align='right' >3.0<br></td><td width='9%' align='left' >讲授<br></td><td width='10%' align='left' >专业课/必修课<br></td><td width='5%' align='center' >001<br></td><td width='9%' align='left' >2015级酒店管理本科班<br></td><td width='5%' align='right' >69<br></td><td width='12%' align='left' >1-8周&ensp;二[1-3节]<br></td><td width='15%' align='left' ><br></td></tr><td width='5%' align='center' >2<br></td><td width='25%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='9%' align='left' ><br></td><td width='10%' align='left' ><br></td><td width='5%' align='center' ><br></td><td width='9%' align='left' ><br></td><td width='5%' align='right' ><br></td><td width='12%' align='left' >1-8周&ensp;四[5-7节]<br></td><td width='15%' align='left' ><br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>

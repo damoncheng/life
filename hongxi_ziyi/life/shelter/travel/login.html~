@@ -1,0 +1,5 @@
+{% extends "site-templates-travel.html" %}
+
+{% block content-travel %}
+123
+{% endblock %}

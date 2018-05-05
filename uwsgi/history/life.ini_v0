@@ -1,0 +1,15 @@
+ [uwsgi]
+  socket = 127.0.0.1:8000
+  master = true         
+  no-site = true        
+  workers = 5           
+  reload-mercy = 10     
+  vacuum = true         
+  max-requests = 1000   
+  limit-as = 512
+  buffer-size = 30000
+  pidfile = /var/run/uwsgi8000.pid    
+  daemonize= /data/uwsgi/logs/uwsgi8000.log
+  plugins = python
+  stats = 127.0.0.1:8001
+  pythonpath = /usr/local/lib/python2.7/dist-packages

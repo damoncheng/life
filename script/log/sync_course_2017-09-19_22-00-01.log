@@ -1,0 +1,87 @@
+#Sync---Grade:20170---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20161---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20151---Teachers:1
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,VP6
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,B455
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,5V25
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-
+200,OK
+#---------validcode:,266 J
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2017048-
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2017048-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,26A7
+#------getTeacherExcel get teacher class table-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,RT T3
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,3N4M
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017048-
+200,OK
+2017048-
+2017-09-19_22-00-58

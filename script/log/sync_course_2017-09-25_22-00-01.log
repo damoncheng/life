@@ -1,0 +1,97 @@
+#Sync---Grade:20170---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20161---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20160---Teachers:1
+#------getCourse session_header-------#
+#Sync---Grade:20151---Teachers:1
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#---------validcode:,UMKG
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017049-
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+200,OK
+#---------validcode:,GTGA
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,K2 B9
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,FGJY
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017049-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2017049-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+2017049-
+200,OK
+200,OK
+#---------validcode:,
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,NEVB
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017049-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2017049-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,E35
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,MSTQ
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017049-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+2017049-obtain validcode fail
+1
+obtain validcode fail
+#------getCourse session_header-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+#-------getValidcode-------#
+200,OK
+200,OK
+#---------validcode:,U28P
+#------getTeacherExcel get teacher class table-------#
+#---------validcode:,DU3Q
+#------getTeacherExcel get teacher class table-------#
+200,OK
+2017049-
+200,OK
+2017049-
+2017-09-25_22-00-13
